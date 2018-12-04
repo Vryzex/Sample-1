@@ -1,0 +1,26 @@
+* {
+  box-sizing:initial;
+}
+
+* {
+  box-sizing:initial;
+}
+
+* {
+  margin:0;
+  padding:0;
+  -webkit-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+a:hover {
+  color:#a4a4a4;
+  text-decoration:underline;
+}
+
+a:hover {
+  color:#a4a4a4;
+  text-decoration:underline;
+}
+

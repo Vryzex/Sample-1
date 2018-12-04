@@ -1,0 +1,35 @@
+* {
+  box-sizing:initial;
+}
+
+* {
+  margin:0;
+  padding:0;
+  -webkit-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+#promo {
+  text-align:center;
+  padding:40px;
+  background-image:url(../../assets/img/backgroundimage.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+
+@media (min-width: 1200px) {
+  #promo {
+    padding:20px;
+  }
+}
+
+#promo .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+  max-width:8000px;
+  margin:0 auto;
+}
+
